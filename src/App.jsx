@@ -4,7 +4,7 @@ import React  from 'react'
 
 import './App.css'
 
-import Pass_generator from './login_generator'
+import Pass_generator from './pass_generator'
 
 function App() {
   
@@ -12,8 +12,6 @@ function App() {
   return (
     
     <Pass_generator/>
-   
-
     
   )
 }
