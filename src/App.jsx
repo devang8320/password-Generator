@@ -4,7 +4,7 @@ import React  from 'react'
 
 import './App.css'
 
-import Pass_generator from './pass_generator'
+import Pass_generator from './password_generator'
 
 function App() {
   
